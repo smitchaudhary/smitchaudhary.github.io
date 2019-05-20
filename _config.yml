@@ -53,7 +53,7 @@ paginate_path: /page:num/
 #Site Author
 author:
   name: "Smit Chaudhary"
-  picture: "img/Profilepic.jpeg"
+  picture: "/img/Profilepic.jpeg"
   bio: "Senior Physics Undergraduate, IIT Kanpur"
   loaction: "Kanpur, India"
   email: smit@iitk.ac.in
