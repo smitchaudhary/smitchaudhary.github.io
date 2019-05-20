@@ -1,1 +1,0 @@
-# smitchaudhary.github.io
