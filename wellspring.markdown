@@ -4,7 +4,7 @@ title: "Wellspring"
 permalink: /wellspring/
 ---
 
-+ **[Prayas:](https://dora.iitk.ac.in/dora/prayas)** Prayas is a student-led initiative at IIT Kanpur where the student volunteers conduct regular classes for underprivileged children living in and around the IIT Campus. I have had the opportunity to be a part of the Prayas since January 2019.
++ **[Prayas:](https://dora.iitk.ac.in/dora/prayas)** Prayas is a student-led initiative at IIT Kanpur where the student volunteers conduct regular classes for underprivileged children living in and around the IIT Campus. I have had the opportunity to be a part of the Prayas team since January 2019.
 
 + **[Vox Populi:](http://voxiitk.com/)** I have been involved with Vox Populi, the student journalism body of IIT Kanpur for about 2 years now. I have served as an editor for the 2018-19 term. You can head to this [page](http://voxiitk.com/) and have a look at a part of the team's work.
 
