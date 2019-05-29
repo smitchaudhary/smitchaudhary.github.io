@@ -31,7 +31,7 @@ permalink: /wellspring/
   + [PhysicsGirl](https://www.youtube.com/user/physicswoman) is a channel by Diana Cowern. This is filled with fun physics videos with nice animations and some puns thrown around here and there.
   + [StandUp Maths](https://www.youtube.com/user/standupmaths) is a fun-filled channel where one can enjoy learning Maths while Matt Parker cracks some math jokes.
 + ### **Webcomics**<br>
-  Lately, I have become a fan of webcomics. [xkcd](https://www.xkcd.com/) is one of the most popular webcomics out there and rightly so. In addition the *[What-ifs]*(https://what-if.xkcd.com/) are the icing on the cake.
+  Lately, I have become a fan of webcomics. [xkcd](https://www.xkcd.com/) is one of the most popular webcomics out there and rightly so. In addition the *[What-ifs](https://what-if.xkcd.com/)* are the icing on the cake.
   [Zen pencils](https://zenpencils.com/) are less frequent but the wholesome webcomics will put a smile on your face without fail. Take [this](https://zenpencils.com/comic/100-carl-sagan-pale-blue-dot/) about Carl Sagan, [this](https://zenpencils.com/comic/curie/) about Marie and Pierre Curie, or [this](https://zenpencils.com/comic/137-richard-feynman-the-beauty-of-a-flower/) about Richard Feynman for example.
   [SMBC](www.smbc-comics.com) or Saturday Morning Breakfast Cereal is another popular webcomic that I like.
   [The Oatmeal](https://theoatmeal.com/) is a fantastic webcomic with posts that are sometimes very silly and funny and sometimes long and thoughtful. Other webcomics I like are [Cyanide & Happiness](http://explosm.net/) and [Extra Ordinary](https://www.exocomics.com/).
