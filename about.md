@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! I am Smit Chaudhary. I am a final-year Physics Undergraduate at the [Indian Institute of Technology Kanpur (IIT Kanpur)](www.iitk.ac.in), also commonly referred to as IITK. I am broadly interested in *Quantum Optics* and *Quantum Information Theory*. I am also interested in Classical *Information Theory* and theoretical models dealing with light-matter interaction.
 
-I blog here at [blog link/archive by year]. I happen to be a very sporadic blogger, if I am one at all. I am trying to be more consistent with my blog posts. There are some extremely interesting places on the web that I frequently visit. Some of those are just fun while other are blogs and tweets of seasoned academics who are thoughtful enough to share some valuable insights. About these gems on internet and my other non-academic interests at [Wellspring].
+I blog [here](https://smitchaudhary.github.io/posts/). I happen to be a very sporadic blogger, if I am one at all. I am trying to be more consistent with my blog posts. There are some extremely interesting places on the web that I frequently visit. Some of those are just fun while other are blogs and tweets of seasoned academics who are thoughtful enough to share some valuable insights. About these gems on internet and my other non-academic interests at [Wellspring].
 
 My online presence is primarily limited to the following:
   + **[IITK Webmail](mailto:smit@iitk.ac.in):** The good old E-mail.
