@@ -1,0 +1,71 @@
+---
+layout: post
+title: "2019 through Books"
+subtitle: "Books I read in 2019: The routine, the boring and those occasional gems"
+date: 2020-01-29 16:58:50 +0530
+category: Review
+tags: [Fiction, Biography]
+permalink: /blog/:title/
+---
+{% include toc %}
+
+In the last one year, I read some great books, some I was made to, some of them were Biographies. This is something that is usually done at the start of the year but I am late by nearly a month.
+
+### 1984 ###
+  Not much for me to say here really. Probably the quintessential dystopian novel. I read it again because for two primary reasons. The first was simply that it had been long since I read it and it is never a bad time for Orwell to remind you the dangers of an authoritarian regime. The second being that I wanted to read the holy trinity of Dystopia; 1984, BNW and F451 in succession (Masochist much?) as suggested by a few redditors. In the same vein, I wanted to read Neil Postman's *Amusing Ourselves to Death* and it was important to catch up on it. For someone who is highly paranoid as is, this was not a comforting read. The clock struck thirteen.
+
+  If you have not read it yet, I highly recommend. The least it will do is introduce you to Dystopia.
+### Brave New World ###
+  This is simply incredible. I am glad I finally read it and sort of mad it took me this long. I won't go on a tirade here about how we are living the dystopia Huxley portrays, that I am saving for later. I particularly like the narrative device used here. It is funny and sad at the same time how the technological utopia one would naively envision could be such a social dystopia. Having consumed a lot of sci-fi media where well-meaning inventions or ideas go rogue, easy to imagine going down this line. The kind of unsustainable consumerism and greedy capitalism we see around ourselves today, Huxley seems unnervingly prescient. Not going to spoil the novel with more details.
+
+  Highly recommend, especially in succession with 1984.
+### Fahrenheit 451 ###
+  And now the (in)famous dystopia trio was done. Some of what it conveys has an overlap. Another reminder of the dangers of an authoritarian government. Fear is a very potent tool and what is surprising is how it becomes stronger when applied to more people. And the authoritarian government even gets to play with and affect interpersonal relationships. Love and affection is no more the basis of relationships. This happens to be the case in all three of these novels. The title is reference to the notion that paper combusts at 451 degree F and that is a plot point.
+
+  > There must be something in books, something we can't imagine, to make a woman stay in a burning house; there must be something there. You don't stay for nothing.
+
+### Amusing Ourselves to Death ###
+  I was introduced to this through [this comic](https://highexistence.com/amusing-ourselves-to-death-huxley-vs-orwell/) and I had given up on my summer plans, a perfect opportunity to read 1984,
+
+  Comparisons between 1984 and BNW are natural. I used to say *'There is no political situation where something Orwellian wouldn't fit,''* but Huxley gives another, and Postman here argues, a more accurate descriptions of the world we live in. With the benefit of hindsight, Neil Postman might sound prescient but I think the process is a more gradual one, a process which is slow but does not miss the perceptive eye. What is ironic and morbidly funny is the fact that what Postman argues against, the infinite distractions, render you less perceptive.
+### Becoming ###
+  I really **admired** the Obamas. Past tense? Past tense. And it is probably not natural to dislike them after having the Trumps follow them but here we are. My opinion of the book hasn't changed much to be honest but that of the people has. And since it is an autobiography, can't really distance the two. It is pretty emotional and up close retelling of Michelle Obama's life, which is intriguing and even inspiring to some. I see the appeal and I understand the hype as well. But my view of the Obama's has changed as I learned more about their policies and as I leaned more left each day. The first two sections, *Becoming Me* and *Becoming Us* are up until Barack Obama swears in as the POTUS and these are understandably more honest.
+
+  A good read.
+### The Stranger ###
+  Absurd. A short read but presents to you a lot of absurdities. Camus starts the novel with something that is jarring in a way.
+
+  > Mother died today. Or maybe yesterday; I can't be sure.
+
+  And then continues to build a character who is surprisingly disconnected. This is the case not only with his mother but his girlfriend as well, and all others really. Camus challenges some of the notions we hold. Even though he does not portray Meursault in a manner that makes him relatable, some of his actions, him getting used to the life in prison challenges my ideas of friendships and relationships I have with many people. The last part, after the courtroom drama ends is again something that exposes the absurdities of life.
+
+  I have tried to avoided spoilers here. A short and great read I think.
+### Born a Crime ###
+  The most enjoyable read of the list. *Born a Crime* is Trevor Noah's autobiography, set in the apartheid era South Africa. Trevor Noah does a great job as he guides you through his life, pointing out those little anecdotes, narrating them in an engrossing and entertaining manner while talking about some deep issues. The book is a 'not-dense yet illuminating' discussion on sociopolitical issues such as apartheid, colonialism, gender roles, being an outsider etc, and a personal tale of growing up, family and, the struggles of daily life.
+
+  I would highly recommend. People seem to have liked the audio book more, which I assume would be funnier in Trevor's voice but having watched a lot of his show, I read it in his voice already.
+### Permanent Record ###
+  1984 came to life. And we know about it thanks to one man - Edward Snowden.
+
+  >"The government derives its power, legitimacy, from the consent of those it governs... consent is only meaningful if it is informed. And they lied to us".
+    - Snowden on Trevor Noah's show
+
+  As I said for Michelle Obama's *Becoming* as well, it is hard to separate the person from his autobiography and I see Snowden as a modern day hero. About the book itself, it is highly readable and a thoroughly fascinating account of Snowden's life. Though it comes from one of the most polarizing figures, especially in the US, I think one needs to read it to understand his actions and the implications of what the government was doing. This book came out after I had read 4 novels about authoritarian governments. Apart from all the debate about surveillance, Snowden also makes you question where your loyalties lie. *"Patriotism is not loyalty to your government ... Patriotism is the constant effort to do good for the people of your country"* - Snowden on Joe Rogan Podcast.
+### Winners take all ###
+  The subtitle : *The Elite Charade of Changing the World* is a dead giveaway of what the book is all about. It is an attempt at exposing the wealthy and powerful. Through the various chapters, Anand Giridhardas creates a compelling argument about how the "good" that the elites do simply perpetuates a system of stark inequality and injustice, primarily, economic injustice. Initially, I had my apprehensions about the book, I feared it might turn out to be a shallow read where a man complains and whines, and though the it does feel like that at times, it is much more revealing.
+
+  I think it is ok to be appreciative of rich people using their(?) resources for the betterment of the poor and at the same time fight the system that has made them so rich and created so much poverty. One can be grateful for the benevolence of the benevolent dictator while fighting to get rid of the dictatorship.
+
+### The Scarlet Letter ###
+  This is the book I *had* to read. It was part of the assigned reading for a course and maybe because I had to, I didn't want to. I don't think it is something I would have enjoyed otherwise either.
+
+  Won't recommend if you are not doing ENG434A at IIT Kanpur.
+### Kitne Pakistan ###
+  The first Hindi novel I had read and I am sure I will read more. My vocabulary and reading speed are not up to the mark in Hindi but having to refer to dictionary at times did not undo the thrilling tale it is. I initially wanted to read the English translation but ultimately bought the Hindi version since I wanted to read the original piece. The premise in itself is incredible, and the enthralling narration matches it. It traces various instances of violence and calls upon relevant historical characters to the witness' box of a fictional court. The premise allows the novel to swiftly move through time and space as it includes mythological gods to modern day rulers whom Kamleshwar accuses of creating a legacy of hate and divide.
+
+  I would highly recommend this one.
+
+### Nobel Prize Women in Science ###
+  I was watching [this](https://www.youtube.com/watch?v=R13BD8qKeTg) Veritasium video on Bayes' Theorem when I found about [this](https://www.amazon.in/Nobel-Prize-Women-Science-Discoveries/dp/0309072700) book by the same author. Though I am yet to finish that book on Bayes' theorem, the title of this book interested me. Having found out about Cecilia Payne around the same time, I was intrigued and was not disappointment. I already like to read about History of Science and this gives you a chance to look at something that is conveniently ignored. The struggle that some of these people had to go through to just be able to do science is unfair and looks unsurmountable at times. You end up wondering how many more brilliant and budding scientists were never given the chances they deserved just because they came from marginalized groups. I have sparingly came across tweets and articles about how academia is still the 'privileged male's playground,' especially so in India, and I wonder how and when it will change.
+
+  A great book to give you perspective. Would highly recommend, especially for people interested in academia.
