@@ -103,6 +103,9 @@ footer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://smitchaudhary.github.io"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Smit_Chaudhary"
     - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:smitchaudhary10@gmail.com
