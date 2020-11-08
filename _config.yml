@@ -16,7 +16,7 @@
 #email: your-email@example.com
 locale: "en-US"
 title: "Commutating Cogitations"
-description: "Homepage for Smit Chaudhary, Senior Physics Undergraduate, IIT Kanpur"
+description: "Homepage for Smit Chaudhary, Masters student in Applied Physics, TU Delft"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/img/cat.jpg"
@@ -55,12 +55,12 @@ author:
   name: "Smit Chaudhary"
   picture: "/img/ProfilePic.jpeg"
   bio: "Senior Physics Undergraduate, IIT Kanpur"
-  loaction: "Kanpur, India"
-  email: smit@iitk.ac.in
+  loaction: "Delft, The Netherlands"
+  email: S.N.Chaudhary@student.tudelft.nl
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:smit@iitk.ac.in
+      url: mailto:S.N.Chaudhary@student.tudelft.nl
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Smit_Chaudhary3"
@@ -72,22 +72,22 @@ author:
       url: "https://github.com/smitchaudhary/"
     #- #label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/thesag66/"
+      # url: "https://www.instagram.com/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://smitchaudhary.github.io"
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Smit_Chaudhary"
-    - label: "Gmail"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:smitchaudhary10@gmail.com
+#    - label: "Gmail"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: mailto:smitchaudhary10@gmail.com
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:smit@iitk.ac.in
+      url: mailto:S.N.Chaudhary@student.tudelft.nl
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Smit_Chaudhary3"
@@ -103,9 +103,9 @@ footer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://smitchaudhary.github.io"
-    - label: "Gmail"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:smitchaudhary10@gmail.com
+#    - label: "Gmail"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: mailto:smitchaudhary10@gmail.com
 
 
 # Exclude from processing.
