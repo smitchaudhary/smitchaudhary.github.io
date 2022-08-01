@@ -1,11 +1,16 @@
 ---
-layout: post
+layout: single
 title: "Michelson Interferometer in Optics Lab"
-subtitle: "A fun anecdote from a physics lab involving beautiful interference fringes"
+excerpt: "A fun anecdote from a physics lab involving beautiful interference fringes"
 date: 2018-04-02 18:53:50 +0530
-category: Academic
+categories: blog
 tags: Physics
 permalink: /blog/PHY224/
+classes: wide
+comments: false
+author_profile: true
+header:
+  teaser: /assets/images/fringes.jpg
 ---
 In 3rd Semester, we did a Course on [Optics (PHY224)](https://www.iitk.ac.in/new/phy224a) where we had a 3-hour lab twice a week.
 Throughout the semester, we did some already [designed experiments](https://www.iitk.ac.in/phy/optics-lab-phy-224).
@@ -19,15 +24,15 @@ I set up a Michelson's interferometer. For the uninitiated, you can watch the fi
 
 Below I have included a paint-made image of the setup I used:
 
-![center-aligned-image](/img/setup.jpg){: .align-center}
+![center-aligned-image](/assets/images/setup.jpg){: .align-center}
 
 This looked not easy but simple. Was straightforward at first. But there is more in it than what meets the eye. The first issue we ran into was How to heat up the fluid in the container? After much deliberation we decided we will instead heat it up first and then let it cool and observe how many circular fringes collapse for each degree Celsius change in temperature. But it was not going to be so quick. We were told that the glass container we were using would not be able to withstand temperature higher than ~65°C. According to the person in the lab, the glue that kept it together would give way. So for more than 2 days, we tried to solve the problem. We tried Tape Heater, some other devices I didn't know how they worked and many more. We also tried to get one container made for ourselves from the Glass Blowing Center at IITK. But they could only make tubes. Was not possible to have a closed container that can store the fluid in. On the very last day, we finally heated up the entire thing. The fluid in it and the container all went to the burner. Of course, it could have shattered but a lot was at stake. And if it were to work, we could be on a roll. So it was worth a gamble. And the gamble paid off.
 
 The container stood much beyond 65°C. In fact, it was intact till 120°C and I didn't raise the temperature further so I can't say when it would have shattered. It was a moment of joy. A moment of triumph. I remember telling a friend something on the lines of Though this was frustrating at times, I don't mind doing this kind of stuff for the rest of my life. And he agreed. I did this for Water and for Chloroform (Chloroform is volatile. Very difficult to raise the temperature). I didn't have time to do it for more fluids. But this summer, I think I will be able to find some time and do the same exercise for a few other liquids as well. Meanwhile, one should take some time to appreciate Michelson's interferometer. It is so versatile and gives great precision. And the beautiful fringes (The image below) on the screen are a plus. The beauty is in simplicity. Though setting it up might be an arduous task, the rewards are well worth it and more.
 
-![center-aligned-image](/img/fringes.jpg){: .align-center}
+![center-aligned-image](/assets/images/fringes.jpg){: .align-center}
 
-The following quote is attributed to Michelson. The eminent physicist that he mentions is most likely Lord Kelvin. Thus, ther is a similar quote attributed to Lord Kelvin as well.
+The following quote is attributed to Michelson. The eminent physicist that he mentions is most likely Lord Kelvin. Thus, there is a similar quote attributed to Lord Kelvin as well.
 >While it is never safe to affirm that the future of Physical Science has no marvels in store even more astonishing than those of the past, it seems probable that most of the grand underlying principles have been firmly established and that further advances are to be sought chiefly in the rigorous application of these principles to all the phenomena which come under our notice... An eminent physicist has remarked that the future truths of Physical Science are to be looked for in the sixth place of decimals.
 ><footer>Albert Michelson</footer>
 

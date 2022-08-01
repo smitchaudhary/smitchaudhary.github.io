@@ -1,11 +1,16 @@
 ---
-layout: post
+layout: single
 title: "The inaccessibility of Grad School Applications"
-subtitle: "The grueling process that grad school applications is, and how it is inaccessible by design"
+excerpt: "The grueling process that grad school applications is, and how it is inaccessible by design"
 date: 2020-03-11 1:13:50 +0530
-category: General
+categories: blog
 tags: General
 permalink: /blog/gradschoolapps/
+classes: wide
+comments: false
+author_profile: true
+header:
+  teaser: /assets/images/gradschool.jpg
 ---
 
 So some positive news from my side is I have been admitted to TU Delft's MSc program in Applied Physics. I will be following the Quantum Devices and Quantum Computing track. Pretty excited and pumped up about graduate school now. Most likely, I will be joining TU Delft, it already was one of my top preferences, and I have already received rejection from ETH Zurich's program, which was my first preference. I look back on the time from last summer, when I was unsure what I wanted and was looking for potential programs to join, to now, when having received the acceptance, I prepare (at least mentally, for now) for my stay in The Netherlands. If you are reading this, anticipating advice or tips, there is not much for you here. I am not the right person to provide any novel ideas, besides there are plenty of good resources already out there, [Philip Guo](http://pgbovine.net/index.html) and [Matt Might's](http://matt.might.net/articles/) blogs being two wonderful such resources for all aspects of academic life.
