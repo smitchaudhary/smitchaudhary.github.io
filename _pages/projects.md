@@ -10,3 +10,9 @@ header:
   overlay_image: /assets/images/projects_header.png
 author_profile: true
 ---
+
+{% for post in site.posts %}
+  {% if post.categories contains "project" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
