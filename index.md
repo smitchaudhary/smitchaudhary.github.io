@@ -13,6 +13,10 @@ Prior to coming to Delft, I graduated with a Bachelors in Physics from the [Indi
 
 Quantum Algorithms, Quantum-classical hybrid optimization, Quantum Machine Learning
 
+## Publication
+
+[Towards a scalable discrete quantum generative adversarial neural network](https://arxiv.org/abs/2209.13993)
+
 
 [**CV**](/assets/pdfs/CV.pdf)
 
