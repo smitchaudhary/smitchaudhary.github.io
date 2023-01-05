@@ -20,7 +20,7 @@ title                    : "Smit Chaudhary"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Smit Chaudhary"
-description              : "Homepage for Smit Chaudhary, Masters student in Applied Physics, TU Delft"
+description              : "Homepage for Smit Chaudhary, Quantum Algorithms Developer"
 url                      : "https://smitchaudhary.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smitchaudhary/smitchaudhary.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Smit Chaudhary"
   avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Masters student, TU Delft"
-  location         : "Delft, The Netherlands"
+  bio              : "Quantum Algorithms Developer"
+  location         : "Rotterdam, The Netherlands"
   email            :
   links:
     - label: "Email"
