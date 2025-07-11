@@ -3,14 +3,7 @@ main:
   - title: "Home"
     url: /
     description : "Home"
-  - title: "Readings"
-    url: /readings/
-    description : "Paper summaries"
-  - title: "Blog"
-    url: /blog/
-    description : "Musings of a bored mind"
-  - title: "Projects"
-    url: /projects/
-    description : "Some fun projects"
+  # Removed empty/outdated sections: Readings, Blog, Projects
+  # Will add back when quality content is ready
   # - title: "Sitemap"
   #   url: /sitemap/

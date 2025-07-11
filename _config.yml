@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en"
@@ -105,7 +105,7 @@ analytics:
 author:
   name: "Smit Chaudhary"
   avatar: "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Quantum Algorithms Developer"
+  bio: "&nbsp;"
   location: "Rotterdam, The Netherlands"
   email:
   links:
@@ -115,6 +115,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/smit-chaudhary/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=PcsN5sUAAAAJ&hl=en"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://smitchaudhary.github.io/"

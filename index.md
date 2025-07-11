@@ -5,27 +5,44 @@ title: "Home"
 classes : wide
 ---
 
-Hello! I am Smit Chaudhary. A physicist, quantum algorithm developer, and a full-time nerd. Currently I work as a Quantum Algorithm Developer at [PASQAL](https://www.pasqal.com/) where I get to work at the intersection of Quantum Computing and Machine Learning.
+Hello! I am Smit Chaudhary. A physicist, ML Developer, and a full-time nerd. I enjoy training large neural networks to get them to solve problems they have not seen before.
 
-I did my Masters in Applied Physics at the [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/) in the Physics for Quantum Devices and Quantum Computing track. In Delft, I did my Master Thesis in the [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) / [Feld Group](https://qutech.nl/lab/feld-group/) under the supervision of [Prof. Sebastian Feld](https://sebastianfeld.de/) where I researched novel quantum walk based algorithm for qubit mapping problem.
+## What I've Been Up To
 
-I did my internship at [Menten AI](https://www.menten.ai/) where I studied different QML approaches in general and QGANs in particular. We looked into developing a discrete QGAN.
+- **[PASQAL](https://www.pasqal.com/)** - **Machine Learning 🤝 Quantum Computing**<br>
+  <span style="font-size: 0.9em;">*Built Scientific ML systems. Trained Neural Networks. Minimized losses. Shipped APIs that let others use our Quantum Neural Networks to minimize their losses.*</span>
+- **[Menten AI](https://www.menten.ai/)** - **Research Intern**<br>
+  <span style="font-size: 0.9em;">*Built Generative Adversarial Networks in JAX. Made them quantum. Taught them discrete data. Published the results.*</span>
+- **[TU Delft](https://www.tudelft.nl/en/)** - **Master's in Applied Physics**<br>
+  <span style="font-size: 0.9em;">*Built optimization algorithms in [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) group. Implemented GANs for quantum states. Researched barren plateaus. Learned Physics. Applied Physics.*</span>
+- **[IIT Kanpur](http://iitk.ac.in/)** - **Bachelor's in Physics**<br>
+  <span style="font-size: 0.9em;">*Learned a lot. Forgot a lot. Learned to learn again. Learned to forget only some. Still reaping the benefits of those fundamentals.*</span>
 
-Prior to coming to Delft, I graduated with a Bachelors in Physics from the [Indian Institute of Technology (IITK)](http://iitk.ac.in/) in 2020.
+## More About Me
 
-I grew up in India and enjoy the company of a diverse friends group. I often conjure up new absolutely unfounded theories about linguistics based on the similarities and difference I find in different languages that my friends speak. I also enjoy the long process of stop-motion animation that bears a small, often satisfying video clip. I spend way too much time looking for viable open source alternatives for all softwares that I need.
+- <span style="font-size: 0.9em;">*Grew up in India, now live in Rotterdam, The Netherlands.*</span>
+- **Stop-Motion Animation**<br>
+  <span style="font-size: 0.9em;">*I enjoy the process of meticulously crafting each frame where hours worth of effort bears a small (often satisfying) few-seconds long clip.*</span>
+- **Open Source**<br>
+  <span style="font-size: 0.9em;">*Always looking for open source alternatives to everything. Yes, everything. And you should also sponsor your favorite open source projects. Goes a long way.*</span>
+- **Build From Scratch**<br>
+  <span style="font-size: 0.9em;">*Building something from ground up is my usual way of, uhm, scratching the itch. Not just now on weekend(s) projects but also during academic projects.*</span>
+- **I Self-Host by the way**<br>
+  <span style="font-size: 0.9em;">*Ok. I am not annoying about it (yet) but I am starting to move more and more of my stuff off someone else's cloud and my own VPS. [Hetzner](https://www.hetzner.com/) and [Coolify](https://coolify.io/) for the win.*</span>
+- **Languages and Etymology**<br>
+  <span style="font-size: 0.9em;">*I am fortunate to be part of a diverse set of friends, which means many discussions about the similarities and differences in our languages. Have many unfounded theories.*</span>
 
-## Research Interests
 
-Quantum Algorithms, Quantum-classical hybrid optimisation, Quantum Machine Learning
+## Publications
 
-## Publication
+- **[Solving Fluid Dynamics Equations with Differentiable Quantum Circuits](https://juser.fz-juelich.de/record/1041810)**<br>
+  *Proceedings of the 35th Parallel CFD International Conference 2024* (2025)
 
-[Towards a scalable discrete quantum generative adversarial neural network](https://arxiv.org/abs/2209.13993)
+- **[Quantum Circuit Training with Growth-Based Architectures](https://arxiv.org/abs/2411.16560)**<br>
+  *arXiv preprint* (2024)
 
+- **[Towards a scalable discrete quantum generative adversarial neural network](https://iopscience.iop.org/article/10.1088/2058-9565/acc4e4)**<br>
+  *Quantum Science and Technology* (2023)
 
-[**CV**](/assets/pdfs/CV.pdf)
-
-  + At [blog](/blog/), I write about a variety of topics. You can find some of my academic related writings as well as non-academic stuff
-  + At [readings](/readings/), I write exposition/summary for some of the papers/books that I read. This tilts a lot more on the academic side than not.
-  + At [projects](/projects/), I summarise the projects that I have undertaken and what I have learnt through those. It includes past academic and work related projects as well as some simply fun endeavours.
+- **[Quantum Machine Learning: A Review and Current Status](https://doi.org/10.1007/978-981-15-5619-7_8)**<br>
+  *Springer Singapore* (2020)
