@@ -43,3 +43,8 @@ search: false
 .greedy-nav .hidden-links a {
   font-size: 0.8125em;
 }
+
+// Hide footer globally
+.page__footer {
+  display: none;
+}
