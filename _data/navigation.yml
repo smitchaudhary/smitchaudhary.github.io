@@ -2,8 +2,7 @@
 main:
   - title: "Home"
     url: /
-    description : "Home"
-  # Removed empty/outdated sections: Readings, Blog, Projects
-  # Will add back when quality content is ready
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    description: "Home"
+  - title: "Blog"
+    url: /blog/
+    description: "Blog"

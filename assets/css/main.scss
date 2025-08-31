@@ -7,3 +7,39 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Custom font size overrides for smaller text
+.page__content {
+  font-size: 0.875em;
+}
+
+.page__content h1 {
+  font-size: 1.375em;
+}
+
+.page__content h2 {
+  font-size: 1.125em;
+}
+
+.page__content h3 {
+  font-size: 1em;
+}
+
+.page__content ol,
+.page__content p,
+.page__content li {
+  font-size: 0.875em;
+}
+
+// Smaller navigation fonts
+.greedy-nav .visible-links a {
+  font-size: 0.875em;
+}
+
+.site-title {
+  font-size: 0.9em;
+}
+
+.greedy-nav .hidden-links a {
+  font-size: 0.8125em;
+}
