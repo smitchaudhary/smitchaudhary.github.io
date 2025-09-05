@@ -7,6 +7,32 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+// Custom CSS for blog post monospaced font
+.layout--single .page__content,
+.layout--single .page__content p,
+.layout--single .page__content li,
+.layout--single .page__content blockquote {
+  font-family: "Monaco", "Consolas", "Lucida Console", monospace;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+.layout--single .page__content h1,
+.layout--single .page__content h2,
+.layout--single .page__content h3,
+.layout--single .page__content h4,
+.layout--single .page__content h5,
+.layout--single .page__content h6 {
+  font-family: $sans-serif;
+}
+
+.layout--single .page__content code,
+.layout--single .page__content pre {
+  font-family: "Courier New", monospace;
+  background-color: #f5f5f5;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
 
 // Custom font size overrides for smaller text
 .page__content {
