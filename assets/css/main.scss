@@ -6,6 +6,25 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+// Gruvbox Dark Hard syntax highlighting
+$base00: #282828;
+$base01: #cc241d;
+$base02: #98971a;
+$base03: #d79921;
+$base04: #458588;
+$base05: #b16286;
+$base06: #689d6a;
+$base07: #189984;
+$base08: #928374;
+$base09: #fb4934;
+$base0a: #b8bb26;
+$base0b: #fabd2f;
+$base0c: #83a598;
+$base0d: #d3869b;
+$base0e: #8ec07c;
+$base0f: #ebddd2;
+
 @import "minimal-mistakes"; // main partials
 // Custom CSS for blog post monospaced font
 .layout--single .page__content,
@@ -26,10 +45,9 @@ search: false
   font-family: $sans-serif;
 }
 
-.layout--single .page__content code,
 .layout--single .page__content pre {
   font-family: "Courier New", monospace;
-  background-color: #f5f5f5;
+  background-color: #282828;
   padding: 2px 4px;
   border-radius: 3px;
 }
