@@ -84,6 +84,25 @@ My earlier grandstanding about not wanting to be wasteful notwithstanding, I dec
 
 If the shell seems to be getting any slower, I could always lazy load the things that I do not need every single time, but do need them in certain cases. This nearly 10 times faster shell start is a great start. Next up, is your turn, if you find yourself waiting for even just a bit after you open a new pane on tmux, remember that you are just a few profiling sessions away from a significantly faster experience. And if you find some interesting tricks, I would love to hear those.
 
+## Update (21 Dec 2025)
+
+Since this post, I continued optimizing my shell configuration. The startup time has now improved even further:
+
+```
+0.06 real         0.03 user         0.02 sys
+0.04 real         0.02 user         0.01 sys
+0.04 real         0.02 user         0.01 sys
+0.04 real         0.02 user         0.01 sys
+0.04 real         0.02 user         0.01 sys
+0.04 real         0.02 user         0.01 sys
+0.04 real         0.02 user         0.01 sys
+0.04 real         0.02 user         0.01 sys
+0.04 real         0.02 user         0.01 sys
+0.04 real         0.02 user         0.01 sys
+```
+
+The shell now starts in approximately **40-60ms** on average. This represents another significant reduction from the ~140ms achieved at the time of writing. And orders of magnitude better than where we started. The optimization journey continues, but at this point, the startup time is imperceptible and the shell feels truly instantaneous. What is interesting is that I did not even need to sacrifice desired functinoality at the altar of optimization. Merely static loading some things instead of spawning shell processes and removing certain parts that had since become redundant was enough^[4].
+
 ---
 
 [^1]: Well, tEchNiCaLly, it is the time to start and exit the shell, but of course the time to exit is negligible.
@@ -91,3 +110,5 @@ If the shell seems to be getting any slower, I could always lazy load the things
 [^2]: I use zsh, the default on MacOS. But the same idea holds for other shells as well. It loads up the system wide configurations as well as user specific configurations in a predefined order.
 
 [^3]: I already knew that the issue is with the `zshrc` file since other files like `zprofile`, `zshenv` and so on have been unchanged. And the `zshrc` file routinely gets polluted by programs wanting to add to path and so on.
+
+[^4]: If you are interested, the file looks like [this](https://github.com/smitchaudhary/dotfiles/blob/2453d57fe91cb7c59343c1c5bc2414a52dc56c7a/zshrc) at the time of writing.
