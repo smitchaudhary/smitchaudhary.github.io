@@ -3,6 +3,7 @@ layout: single
 title: "You should speed up your shell"
 excerpt: "How long does it take your shell to start?"
 date: 2025-11-09 21:25:34 +0100
+last_modified_at: 2025-12-21 19:24:54 +0530
 categories: blog
 permalink: /blog/shell-speed/
 classes: wide
@@ -101,7 +102,7 @@ Since this post, I continued optimizing my shell configuration. The startup time
 0.04 real         0.02 user         0.01 sys
 ```
 
-The shell now starts in approximately **40-60ms** on average. This represents another significant reduction from the ~140ms achieved at the time of writing. And orders of magnitude better than where we started. The optimization journey continues, but at this point, the startup time is imperceptible and the shell feels truly instantaneous. What is interesting is that I did not even need to sacrifice desired functinoality at the altar of optimization. Merely static loading some things instead of spawning shell processes and removing certain parts that had since become redundant was enough^[4].
+The shell now starts in approximately **40-60ms** on average. This represents another significant reduction from the ~140ms achieved at the time of writing. And orders of magnitude better than where we started. The optimization journey continues, but at this point, the startup time is imperceptible and the shell feels truly instantaneous. What is interesting is that I did not even need to sacrifice desired functinoality at the altar of optimization. Merely static loading some things instead of spawning shell processes and removing certain parts that had since become redundant was enough[^4].
 
 ---
 
